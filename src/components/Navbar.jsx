@@ -6,14 +6,13 @@ const Navbar = () => {
     return (
         <>
         <div className="main-container">
-        <img src="../images/bg-hero-desktop.svg" alt="bg-hero-desktop" />
+        <img src="images/bg-hero-desktop.svg" alt="bg-hero-desktop" />
         <nav className="main-nav">
         <a href="#" className="logo">
-            <img className="sub-logo" src="../images/logo.svg" alt="logo" />
+            <img className="sub-logo" src="images/logo.svg" alt="logo" />
         </a>
         <button className="head-btn">Try it free</button>
         </nav>
-
         <div className="sub-nav">
             <div className="nav-text">
                 <h3>Build The Community Your Fans Will Love</h3>
