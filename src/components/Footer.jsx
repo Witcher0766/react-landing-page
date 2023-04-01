@@ -12,7 +12,7 @@ const Footer = () => {
 
             <div className="sub-container-1">
             <div className="footer-1">
-            <img className="footer-logo" src="../images/logo-white.svg" alt="logo" />
+            <img className="footer-logo" src="./react-landing-page/logo-white.svg" alt="logo" />
              <p>Lorem ipsum dolor sit amet consectetur, 
             <br />
              adipisicing elit. 

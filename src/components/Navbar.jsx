@@ -1,15 +1,14 @@
 import React from "react";
 
-
 const Navbar = () => {
 
     return (
         <>
         <div className="main-container">
-        <img src="images/bg-hero-desktop.svg" alt="bg-hero-desktop" />
+        <img src="./react-landing-page/bg-hero-desktop.svg" alt="bg-hero-desktop" />
         <nav className="main-nav">
         <a href="#" className="logo">
-            <img className="sub-logo" src="images/logo.svg" alt="logo" />
+            <img className="sub-logo" src="./react-landing-page/logo.svg" alt="logo" />
         </a>
         <button className="head-btn">Try it free</button>
         </nav>
@@ -22,7 +21,7 @@ const Navbar = () => {
                 </p>
                 <button className="sub-head-btn">Get Started For Free</button>
             </div>
-            <img src="../images/illustration-mockups.svg" alt="mockups" />
+            <img src="./react-landing-page/illustration-mockups.svg" alt="mockups" />
         </div>
         </div>
         </>
